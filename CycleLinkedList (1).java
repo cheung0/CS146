@@ -7,7 +7,6 @@ import static org.junit.Assert.*;
 
 /**
  * Name: Michael Cheung
- * Student ID: 014373619
  * Description of solution: I have two pointers, a slow one that moves one node at a time, and a fast one that moves two nodes at a time. 
  * When the fast and slow pointer meet at the same node, then i know that a cycle exists, otherwise there is no cycle
  * @author Michael
