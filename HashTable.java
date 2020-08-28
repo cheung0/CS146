@@ -1,9 +1,3 @@
-/**
-Student id: 01437619
-Author: Michael Cheung
-Description: 
- * 
- */
 package a5;
 
 import static org.junit.Assert.*;
@@ -13,10 +7,10 @@ import java.io.FileReader;
 
 
 /**
- * This is an implementation of a hash table.
- * @author andreopo
- *
- *Implement the nametokey method and search method and insertion method.
+This is an implementation of a hash table.
+@author Michael
+Author: Michael Cheung
+Implement the nametokey method and search method and insertion method.
 Run the assert equals statements to make sure that the code is working correctly.
 Observe the runtimes for search and insertion.
 Compare with the results obtained from binary search tree.
