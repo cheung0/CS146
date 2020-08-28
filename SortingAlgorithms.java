@@ -8,7 +8,6 @@ import static org.junit.Assert.*;
 
 /**
  * Name: Michael Cheung
- * Student ID: 014373619
  * Description of solution: Using template code, code up implementations of various sorting algorithms,
  * such as insertion sort, selection sort, heap sort, merge sort, quick sort, and bucket sort with various 
  * helper methods included. Run tests to compare these sorting algorithms' runtime.
