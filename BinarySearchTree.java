@@ -8,8 +8,7 @@ import java.util.ArrayList;
 
 /**
  * This is an implementation of a Binary Search Tree (BST).
- * @author andreopo
- Student id: 01437619
+ * @author Michael
 Author: Michael Cheung
 Description: Implement a binary search tree with and fill in the various functions that it contains. 
 Implement the search method and insertion method recursively.
