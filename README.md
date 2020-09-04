@@ -1,6 +1,5 @@
 # Data-Structures-and-Algorithms
-CS 46B &amp; CS 146 @ SJSU
-
+CS 146 @ SJSU
 
 CS 146 with Professor Andreopoulos
 
