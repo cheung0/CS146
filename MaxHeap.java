@@ -1,6 +1,5 @@
 /**
  * Name: Michael Cheung
- * Student ID: 014373619
  * Description of solution: Using template code, code up an implementation of heap sort 
  * code two helper methods for heap sort
  * @author Michael
